@@ -51,4 +51,4 @@ This tool is provided for educational and testing purposes only. It should only 
 This project is licensed under the MIT License. The MIT License is a permissive open-source license that allows you to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, subject to certain conditions. You can find more details in the [LICENSE](LICENSE) file.
 
 ## Connect 
-https://www.linkedin.com/in/mohamed-shoaib-9673771b3/
+[🔗 Connect with me on LinkedIn](https://www.linkedin.com/in/mohamed-shoaib-9673771b3/)
