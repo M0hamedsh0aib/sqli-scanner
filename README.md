@@ -21,8 +21,8 @@ SQLi Vulnerability Scanner is a Python tool designed to detect potential SQL inj
 
  
 ## Usage 
--u, --url     URL to scan                                sqli-scanner -u https://target.com  
--h, --help    Help Menu
+    -u, --url     URL to scan                                sqli-scanner -u https://target.com  
+    -h, --help    Help Menu
 
 ## Features
 
