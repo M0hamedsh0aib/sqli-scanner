@@ -11,10 +11,12 @@ SQLi Vulnerability Scanner is a Python tool designed to detect potential SQL inj
 
 ## Installation
 
-    Clone the repository to your local machine
-    git clone https://github.com/M0hamedsh0aib/sqli-scanner.git
+ Clone the repository to your local machine
+ 
+     git clone https://github.com/M0hamedsh0aib/sqli-scanner.git
 
-    Install the required Python packages:
+ Install the required Python packages:
+ 
     pip install sqli-scanner
 
  
@@ -32,8 +34,12 @@ SQLi Vulnerability Scanner is a Python tool designed to detect potential SQL inj
 ## Run Command
 To execute the SQLi Vulnerability Scanner, run the following command:
 
-python sqlitool.py --url http://example.com/
+     python sqlitool.py --url http://example.com/
 
+## POC 
+
+
+![sqli](https://github.com/M0hamedsh0aib/sqli-scanner/assets/108838188/6148f421-de84-4831-9abc-cea89d942bb9)
 
 
 ## Disclaimer
@@ -43,3 +49,6 @@ This tool is provided for educational and testing purposes only. It should only 
 ## License
 
 This project is licensed under the MIT License. The MIT License is a permissive open-source license that allows you to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, subject to certain conditions. You can find more details in the [LICENSE](LICENSE) file.
+
+## Connect 
+https://www.linkedin.com/in/mohamed-shoaib-9673771b3/
